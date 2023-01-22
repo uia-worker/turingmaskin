@@ -1,7 +1,7 @@
 # Notater om Ackermann funksjonen
 - Den vanskeligste funksjon å beregne?
 
-Observasjon: m og n blir redusert med hver iterasjon, så det er mulig å si at hvis de blir redusert, så skal de bli 0 og funksjonen skal avslutte, selv om eksperimentert kan det ikke påvises.
+Observasjon: m og n blir redusert med hver iterasjon, så det er mulig å si at hvis de blir redusert, så skal de bli 0 og funksjonen skal avslutte, selv om eksperimentelt kan det ikke påvises.
 
 Med i,j lik 5 er det et udefinert tid for utførelse av funksjonen.
 
